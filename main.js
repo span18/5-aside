@@ -24,4 +24,5 @@
 
         list.appendChild(fragment);
     });
+
 })(document);
