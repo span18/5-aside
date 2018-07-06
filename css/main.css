@@ -1,5 +1,6 @@
 body {
-  margin: 20px 20px 20px 20px; }
+  margin: 20px 20px 20px 20px;
+}
 
 #generate {
   float: right; }
@@ -12,5 +13,10 @@ li {
 .double li  { 
     width: 50%;
 }
+
+#skills {
+	align-items: center;
+}
+
 
 /*# sourceMappingURL=main.css.map */
