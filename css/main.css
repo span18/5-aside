@@ -4,4 +4,13 @@ body {
 #generate {
   float: right; }
 
+li {
+  float: left;
+  display:inline;
+}
+
+.double li  { 
+    width: 50%;
+}
+
 /*# sourceMappingURL=main.css.map */
