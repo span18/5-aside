@@ -2,10 +2,10 @@
 
 defence = document.getElementById("defence-one");
 attack = document.getElementById("attack-one");
-skills = document.getElementById("skills");
+shuffle = document.getElementById("shuffle");
 
 
-skills.addEventListener("click", () => {
+shuffle.addEventListener("click", () => {
 defence.textContent = Math.floor(Math.random() * 26)
 attack.textContent = Math.floor(Math.random() * 26)
 
@@ -17,10 +17,10 @@ attack.textContent = Math.floor(Math.random() * 26)
 
 defenceTwo = document.getElementById("defence-two");
 attackTwo = document.getElementById("attack-two");
-skills = document.getElementById("skills");
+shuffle = document.getElementById("shuffle");
 
 
-skills.addEventListener("click", () => {
+shuffle.addEventListener("click", () => {
 defenceTwo.textContent = Math.floor(Math.random() * 26)
 attackTwo.textContent = Math.floor(Math.random() * 26)
 
