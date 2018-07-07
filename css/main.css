@@ -22,6 +22,16 @@ div p {
 #shuffle {
   margin-right: 2%; }
 
+#image {
+  /* The image used */
+  background-image: url("../images/main-image.jpg");
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
 body {
   font-family: 'Merriweather', serif; }
 

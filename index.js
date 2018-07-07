@@ -7,7 +7,7 @@
         let li = d.createElement("li");
         li.textContent = todo.value;
 
-        //li.classList.add("list-group-item");
+        li.classList.add("list-group-item");
         todo.value = "";
         list.insertBefore(li, list.firstElementChild);
     })
