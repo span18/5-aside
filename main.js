@@ -11,13 +11,9 @@ attack.textContent = Math.floor(Math.random() * 26)
 
 })
 
-})(document);
-
-(d => {
-
-defenceTwo = document.getElementById("defence-two");
-attackTwo = document.getElementById("attack-two");
-shuffle = document.getElementById("shuffle");
+defenceTwo = d.getElementById("defence-two");
+attackTwo = d.getElementById("attack-two");
+shuffle = d.getElementById("shuffle");
 
 
 shuffle.addEventListener("click", () => {
