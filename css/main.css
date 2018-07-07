@@ -12,6 +12,13 @@ div p {
   display: flex;
   flex-direction: row; }
 
+#main {
+  display: flex;
+  flex-direction: row; }
+
+#add {
+  margin-right: 2%; }
+
 body {
   font-family: 'Merriweather', serif; }
 
