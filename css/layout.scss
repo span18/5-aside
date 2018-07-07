@@ -1,54 +1,43 @@
 $margin-right: 2%;
 
 body {
-	margin: 3% 3% 10% 10%; 
-	
-}
+	margin: 3% 3% 10% 10%; }
 
 li {
   float: left;
-  display:inline;
-}
+  display:inline; }
 
 div p {
 	display: flex;
-	flex-direction: row;
-}
+	flex-direction: row; }
 
 .double li  { 
-    width: 50%;
-}
+    width: 50%; }
 
 
 #main {
 	display: flex;
-	flex-direction: row;
-
-}
+	flex-direction: row; }
 
 #add {
-	margin-right: $margin-right;
-}
+	margin-right: $margin-right; }
 
 #shuffle {
-	margin-right: $margin-right;
-}
+	margin-right: $margin-right; }
 
 #image { 
-    /* The image used */
     background-image: url("../images/main-image.jpg");
 
-    /* Full height */
     height: 100%; 
 
-    /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-}
+    background-size: cover; }
 
 .list-group-item {
 
+padding: 5px;
+margin-bottom: 1%;
 font-size: 15px;
 border: 2px solid #00cc00; }
 
