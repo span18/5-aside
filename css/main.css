@@ -32,6 +32,9 @@ div p {
   background-repeat: no-repeat;
   background-size: cover; }
 
+.list-group-item {
+  position: center; }
+
 body {
   font-family: 'Merriweather', serif; }
 
