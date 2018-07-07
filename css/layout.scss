@@ -1,3 +1,5 @@
+$margin-right: 2%;
+
 body {
 	margin: 3% 3% 10% 10%; 
 	
@@ -8,14 +10,15 @@ li {
   display:inline;
 }
 
-.double li  { 
-    width: 50%;
-}
-
 div p {
 	display: flex;
 	flex-direction: row;
 }
+
+.double li  { 
+    width: 50%;
+}
+
 
 #main {
 	display: flex;
@@ -24,7 +27,13 @@ div p {
 }
 
 #add {
-	margin-right: 2%;
+	margin-right: $margin-right;
 }
+
+#shuffle {
+	margin-right: $margin-right;
+}
+
+
 
 
