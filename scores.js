@@ -1,3 +1,4 @@
+//code for kick off score generator
 (d => {
 
 let play = d.getElementById("play");

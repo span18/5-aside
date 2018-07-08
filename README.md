@@ -22,11 +22,14 @@ I worked with html, css, sass and javascript for this project.
 
 -Testing
 
-Tested on chrome, IE & microsoft edge, firefox
+Tested on chrome, firefox, IE & microsoft edge
 
 Have issues on microsoft edge when clicking on the rotate team button. This splits and adjusts the picture. Unsure as to why.
-No problems with any of the other browers
+No problems with any of the other browsers
 
+-Git
+
+I decided to work on the master branch since I was the only one involved in this porject. Otherwise I would have switched to using branches for any updates
 
 
 

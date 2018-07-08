@@ -1,3 +1,5 @@
+//code to add names into list-items
+
 (d => {
     let todo = d.getElementById("text");
     let add = d.getElementById("add");
@@ -14,6 +16,7 @@
 
 })(document);
 
+//code to shuffle the list names 
 (d => {
 
 let list = d.getElementById("list");

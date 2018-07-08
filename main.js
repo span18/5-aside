@@ -1,3 +1,4 @@
+//code for attack and defence attributes and totals
 (d => {
 
 defence = document.getElementById("defence-one");
