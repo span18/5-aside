@@ -9,6 +9,10 @@ div p {
   display: flex;
   flex-direction: row; }
 
+section {
+  margin-top: 20%;
+  margin-left: 8%; }
+
 .double li {
   width: 50%; }
 
