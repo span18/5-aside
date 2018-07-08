@@ -18,6 +18,13 @@ I worked with html, css, sass and javascript for this project.
 
 -Testing
 
+Tested on chrome, IE & microsoft edge, firefox
+
+Have issues on microsoft edge when clicking on the rotate team button. This splits and adjusts the picture. Unsure as to why.
+No problems with any of the other browers
+
+
+
 
 
 
